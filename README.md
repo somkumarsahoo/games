@@ -1,2 +1,6 @@
 # games
-logical games in python
+fun repository!
+
+logical games in python.
+
+please explore...
